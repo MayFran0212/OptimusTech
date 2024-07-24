@@ -1,0 +1,25 @@
+.sobrenos {
+    text-align: center;
+    margin: 6em 0;
+}
+
+.sobrenos__subtitulo {
+    color: var(--cor-primaria);
+    font-weight: 600;
+    padding: 2.5em;
+}
+
+.sobrenos__titulo {
+    color: var(--cor-cinza-escuro);
+    font-weight: 600;
+    font-size: 48px;
+    padding-bottom: 1em;
+}
+
+.sobrenos__texto {
+    color: var(--cor-cinza-claro);
+    font-size: 20px;
+    /* margin: 0 28em; */
+    width: 42%;
+    margin: 0 auto;
+}

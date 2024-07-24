@@ -1,0 +1,46 @@
+.vagas {
+    padding: 20px;
+}
+
+.vagas__secao {
+    margin-bottom: 40px;
+}
+
+.vagas__secao-titulo {
+    display: flex;
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--cor-cinza-escuro);
+    margin-bottom: 20px;
+    margin-left: 18.5em;
+    justify-content: left;
+}
+
+.vaga {
+    border: 1px solid var(--cor-borda);
+    border-radius: 0.5em;
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 60em;
+    margin: 0 auto 20px auto;
+}
+
+.vaga__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-cinza-escuro);
+    margin-bottom: 10px;
+}
+
+.vaga__informacoes {
+    display: flex;
+    flex-direction: row;
+    padding: auto;
+    color: var(--cor-cinza-claro);
+    font-weight: 500;
+}
+
+.vaga__informacoes span {
+    margin: 5px 0;
+    padding-right: 1.5em;
+}

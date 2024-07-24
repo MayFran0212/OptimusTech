@@ -1,0 +1,30 @@
+@import url("./header.css");
+@import url("./sobrenos.css");
+@import url("./metricas.css");
+@import url("./vagas-cabecalho.css");
+@import url("./vagas.css");
+@import url("./depoimento.css");
+
+:root {
+    --font: 'Inter', sans-serif;
+
+    --cor-fundo: #FFFFFF;
+    --cor-primaria: #8E2424;
+    --cor-cinza-claro: #667085;
+    --cor-cinza-escuro: #101828;
+    --cor-borda: #EAECF0;
+    --cor-fundo-vermelho: rgba(195, 25, 25, 0.03);
+    --cor-fundo-cinza: rgba(249, 250, 251, 1);
+    --cor-direitos: #98A2B3;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    font-family: var(--font);
+    font-size: 16px;
+    font-weight: 400;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    line-height: 1.5;
+}

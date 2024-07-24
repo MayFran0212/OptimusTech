@@ -1,0 +1,30 @@
+.vagas__cabecalho {
+    text-align: center;
+    margin: 15em 0 5em 0;
+}
+
+.vagas__imagem {
+    width: 80%;
+    margin-bottom: 0;
+}
+
+.vagasabertas {
+    font-size: 14px;
+    color: var(--cor-primaria);
+    background-color: var(--cor-fundo-vermelho);
+    padding: 0.5em 1em;
+    border-radius: 2em;
+}
+
+.vagas__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-cinza-escuro);
+    margin: 0.3em 0;
+}
+
+.vagas__texto {
+    font-size: 20px;
+    color: var(--cor-cinza-claro);
+    margin: 0 0 3em 0;
+}
