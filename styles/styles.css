@@ -4,6 +4,7 @@
 @import url("./vagas-cabecalho.css");
 @import url("./vagas.css");
 @import url("./depoimento.css");
+@import url("./rodape.css");
 
 :root {
     --font: 'Inter', sans-serif;
@@ -13,6 +14,7 @@
     --cor-cinza-claro: #667085;
     --cor-cinza-escuro: #101828;
     --cor-borda: #EAECF0;
+    --cor-borda-email: #D0D5DD;
     --cor-fundo-vermelho: rgba(195, 25, 25, 0.03);
     --cor-fundo-cinza: rgba(249, 250, 251, 1);
     --cor-direitos: #98A2B3;
