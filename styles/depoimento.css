@@ -20,20 +20,21 @@
     margin-bottom: 1em;
 }
 
-.depoimento__nome {
-    font-weight: 500;
-}
-.depoimento__cargo {
-    color: var(--cor-cinza-claro);
+.depoimento__perfil {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
 
 .depoimento__foto {
     width: 5%;
 }
 
-.depoimento__perfil {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
+.depoimento__nome {
+    font-weight: 500;
+}
+.depoimento__cargo {
+    color: var(--cor-cinza-claro);
 }
